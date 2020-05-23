@@ -3,7 +3,7 @@ published: true
 subtitle: It's always a bit messy
 author: Wferr
 avatar: img/authors/wferr.png
-image: img/f.jpg
+image: img/e.jpg
 date: 2020-05-23T12:12:12.000Z
 ---
 ## A New Post
