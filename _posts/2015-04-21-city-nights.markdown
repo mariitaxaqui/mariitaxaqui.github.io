@@ -1,10 +1,11 @@
 ---
-title:  "Nobody else was around."
-subtitle: "A Beautiful shot during the night."
-author: "Wferr"
-avatar: "img/authors/wferr.png"
-image: "img/b.jpg"
-date:   2015-04-21 12:12:12
+title: Nobody else was around.
+subtitle: A Beautiful shot during the night.
+author: Wferr
+avatar: img/authors/wferr.png
+image: img/photo_2020-05-23_20-47-12.jpg
+date: 2015-04-21T12:12:12.000Z
+published: true
 ---
 
 ### Dolor sit amet?
